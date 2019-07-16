@@ -1,0 +1,10 @@
+1、查看连接到“MetroOA_workTodo”数据库的连接
+SELECT * FROM master.dbo.sysprocesses WHERE dbid = DB_ID('MetroOA_workTodo')
+2、关闭除当前连接外的所有连接
+kill 54 #54为spid
+3、获取数据隔离级别
+DBCC USEROPTIONS
+4、修改数据库隔离级别
+ALTER DATABASE MetroOA_workTodoSET READ_COMMITTED_SNAPSHOT ON;
+5、获取数据隔离级别
+DBCC USEROPTIONS
