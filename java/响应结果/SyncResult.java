@@ -2,11 +2,11 @@
 
 /**
  * Title:
- * Project: DTS
+ * Project:  
  * Description: 同步结果的结构
  * Date: 2019-11-1
  * Copyright: Copyright (c) 2020
- * Company: 北京中科院软件中心有限公司 (SEC)
+ * Company:  
  *
  * @author zwx
  * @version 1.0
