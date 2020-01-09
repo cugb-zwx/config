@@ -1,6 +1,4 @@
-package com.sec.eac.base.synchronous.pools.common;
 
-import com.sec.eac.base.synchronous.pools.common.CallFunction;
 
 /**
  * Title:

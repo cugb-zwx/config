@@ -1,4 +1,3 @@
-package com.sec.eac.base.synchronous.pools.common;
 
 /**
  * Title:

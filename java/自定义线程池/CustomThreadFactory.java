@@ -1,9 +1,4 @@
-package com.sec.eac.base.synchronous.pools.common;
 
-import com.sec.eac.base.synchronous.pools.common.CustomThread;
-
-import java.util.concurrent.ThreadFactory;
-import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * Title:
