@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <html lang="zh_CN">
 <head>
-<#include "../psmpCommon/_common.ftl"/>
     <title>${title}</title>
     <style type="text/css">
         .dong {
             width: 1252px;
             height: 512px;
             position: relative;
-            background-image: url("/eac/static/hui/images/house/map.jpg");
+            background-image: url("/static/hui/images/house/map.jpg");
         }
 
         .dong-line {
@@ -29,7 +28,7 @@
             width: 100px;
             height: 100px;
             border-radius: 50%;
-            background-image: url("/eac/static/hui/images/house/dong8.jpg");
+            background-image: url("/static/hui/images/house/dong8.jpg");
             background-size: 220%;
             background-position: -28px -36px;
         }

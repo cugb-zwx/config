@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
  * Description:
  * Date: 2019-10-16
  * Copyright: Copyright (c) 2020
- * Company: 北京中科院软件中心有限公司 (SEC)
+ * Company:  
  *
  * @author zwx
  * @version 1.0

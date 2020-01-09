@@ -17,7 +17,7 @@ import java.util.concurrent.ConcurrentMap;
  * Description:
  * Date: 2020-1-2
  * Copyright: Copyright (c) 2020
- * Company: 北京中科院软件中心有限公司 (SEC)
+ * Company: 
  *
  * @author zwx
  * @version 1.0
